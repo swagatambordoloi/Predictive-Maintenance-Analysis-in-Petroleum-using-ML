@@ -1,0 +1,19 @@
+# ==========================================
+# Predictive Maintenance SCADA Simulator
+# Project Requirements File
+# ==========================================
+
+# Core UI & Web Framework
+streamlit>=1.28.0
+
+# Data Engineering & Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning & Modeling
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Visualization & Notebook Analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
