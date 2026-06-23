@@ -104,7 +104,7 @@ A dedicated SQL analytics layer was developed to investigate operational behavio
 📊 5.Power BI Dashboards :
 A dashboard was developed to monitor asset health, telemetry behavior, and machine learning outputs.
 
-![App Screenshot](Screenshots/Bi Dashboard/dashboard 1.png)
+![Dashboard1](Screenshots/Bi_Dashboard/dashboard_1.png)
 
 
 ✅Fleet Operations Overview
