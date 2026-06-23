@@ -106,6 +106,7 @@ A dedicated SQL analytics layer was developed to investigate operational behavio
 
 
 
+
 📊 5.Power BI Dashboards :
 A dashboard was developed to monitor asset health, telemetry behavior, and machine learning outputs.
 
